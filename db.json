@@ -133,6 +133,16 @@
         "registered": 754,
         "graduated": 422,
         "inactive": 11
+    },
+    "newStudentsCount":{
+        "active":4,
+        "registered": 12,
+        "graduated": 24,
+        "inactive": 5
+    },
+    "totalBenefit":{
+     "all":540000000,
+     "real":420000000,
+     "noreal":120000000
     }
-    
 }
