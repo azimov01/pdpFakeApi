@@ -206,6 +206,7 @@
   },
   "chat": [
     {
+      "id": 12,
       "sendTo": 3,
       "sendFrom": 1,
       "time": "13.08.20 | 14:20",
@@ -217,6 +218,7 @@
       "fileSize": ""
     },
     {
+      "id": 11,
       "sendTo": 4,
       "sendFrom": 1,
       "time": "11.08.20 | 11:20",
@@ -228,6 +230,7 @@
       "fileSize": ""
     },
     {
+      "id": 10,
       "sendTo": 3,
       "sendFrom": 1,
       "time": "13.08.20 | 14:25",
@@ -239,6 +242,7 @@
       "fileSize": "2MB"
     },
     {
+      "id": 9,
       "sendTo": 4,
       "sendFrom": 1,
       "time": "11.08.20 | 14:10",
@@ -250,6 +254,7 @@
       "fileSize": "2MB"
     },
     {
+      "id": 8,
       "sendTo": 3,
       "sendFrom": 1,
       "time": "13.08.20 | 14:25",
@@ -261,6 +266,7 @@
       "fileSize": "2MB"
     },
     {
+      "id": 7,
       "sendTo": 4,
       "sendFrom": 1,
       "time": "11.08.20 | 6:50",
@@ -271,8 +277,8 @@
       "fileName": "2-topshiriq.zip",
       "fileSize": "2MB"
     },
-    
     {
+      "id": 6,
       "sendTo": 1,
       "sendFrom": 4,
       "time": "13.08.20 | 14:20",
@@ -284,6 +290,7 @@
       "fileSize": ""
     },
     {
+      "id": 5,
       "sendTo": 1,
       "sendFrom": 3,
       "time": "11.08.20 | 11:05",
@@ -295,6 +302,7 @@
       "fileSize": ""
     },
     {
+      "id": 4,
       "sendTo": 1,
       "sendFrom": 4,
       "time": "13.08.20 | 14:25",
@@ -306,6 +314,7 @@
       "fileSize": "2MB"
     },
     {
+      "id": 3,
       "sendTo": 1,
       "sendFrom": 3,
       "time": "7.08.20 | 11:50",
@@ -317,6 +326,7 @@
       "fileSize": "2MB"
     },
     {
+      "id": 2,
       "sendTo": 1,
       "sendFrom": 4,
       "time": "21.08.20 | 14:15",
@@ -328,6 +338,7 @@
       "fileSize": "2MB"
     },
     {
+      "id": 1,
       "sendTo": 1,
       "sendFrom": 3,
       "time": "18.08.20 | 19:50",
@@ -337,6 +348,68 @@
       "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
       "fileName": "2-topshiriq.zip",
       "fileSize": "2MB"
+    }
+  ],
+  "userDetail": [
+    {
+      "id": 1,
+      "userId": 3,
+      "studentRange": 47,
+      "studentRank": 2
+    },
+    {
+      "id": 2,
+      "userId": 4,
+      "studentRange": 14,
+      "studentRank": 3
+    },
+    {
+      "id": 3,
+      "userId": 5,
+      "studentRange": 85,
+      "studentRank": 5
+    },
+    {
+      "id": 4,
+      "userId": 6,
+      "studentRange": 67,
+      "studentRank": 3
+    },
+    {
+      "id": 5,
+      "userId": 7,
+      "studentRange": 57,
+      "studentRank": 4
+    },
+    {
+      "id": 6,
+      "userId": 8,
+      "studentRange": 18,
+      "studentRank": 3
+    },
+    {
+      "id": 7,
+      "userId": 9,
+      "studentRange": 91,
+      "studentRank": 5
+    },
+    {
+      "id": 8,
+      "userId": 10,
+      "studentRange": 86,
+      "studentRank": 3
+    },
+    {
+      "id": 9,
+      "userId": 11,
+      "studentRange": 75,
+      "studentRank": 2
+    },
+    {
+      "id": 10,
+      "userId": 12,
+      "studentRange": 47,
+      "studentRank": 1
     }
   ]
 }
