@@ -1,148 +1,207 @@
 {
-"users":
-    [ {
-          "id":1,
-          "firstName":"Ixtiyor",
-          "lastName":"Xaitov",
-          "email":"ikhtiyordev@gmail.com",
-          "role":"ADMIN"
-        }
-        ,
-        {
-          "id":2,
-          "firstName":"Ilxom",
-          "lastName":"Xaitov",
-          "email":"ikhtiyor@gmail.com",
-          "role":"MENTOR"
-        },
-         {
-          "id":3,
-          "firstName":"Oliver",
-          "lastName":"Noah",
-          "email":"Noah@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://vrs.amsi.org.au/wp-content/uploads/sites/78/2017/12/tobinsouth_vrs_2017-18.jpeg"
-        },
-          {
-          "id":4,
-          "firstName":"Charlie",
-          "lastName":"Richard",
-          "email":"Richard@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://publichealth.uga.edu/wp-content/uploads/2020/01/Thomas-Cameron_Student_Profile.jpg"
-        },
-        {
-          "id":5,
-          "firstName":"William",
-          "lastName":"Jacob",
-          "email":"William@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg"
-        },
-          {
-          "id":6,
-          "firstName":"Charlie",
-          "lastName":"Richard",
-          "email":"Richard@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":""
-        },
-        {
-          "id":7,
-          "firstName":"Harry",
-          "lastName":"John",
-          "email":"JohnJohn@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://vrs.amsi.org.au/wp-content/uploads/sites/78/2019/01/berichon-photo.jpg"
-        },
-          {
-          "id":8,
-          "firstName":"Oscar",
-          "lastName":"John",
-          "email":"Oscar@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":""
-        },
-        {
-          "id":9,
-          "firstName":"Kyle",
-          "lastName":"Jacob",
-          "email":"Kyle@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg"
-        },
-          {
-          "id":10,
-          "firstName":"George",
-          "lastName":"Richard",
-          "email":"George@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST8F8--z5CdhblS5e6hH7DgsFPTlxs9p2w0w&usqp=CAU"
-        },
-        {
-          "id":11,
-          "firstName":"Thomas",
-          "lastName":"Michael",
-          "email":"Michael@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://dornsife.usc.edu/tools/mytools/PersonnelInfoSystem/DOC/Student/PHIL/photo_1078846.jpg"
-        },
-     {
-          "id":12,
-          "firstName":"Joseph",
-          "lastName":"William",
-          "email":"Joseph@gmail.com",
-          "role":"STUDENT",
-          "imageUrl":"https://www.bayleybulletin.com/wp-content/uploads/2016/08/Ashlynn-Fayth-Smith-900.jpg"
-        },
-      {
-          "id":13,
-          "firstName":"Robert",
-          "lastName":"David",
-          "email":"David@gmail.com",
-          "role":"MENTOR",
-          "imageUrl":"https://www.ntu.ac.uk/__data/assets/image/0018/110709/aamir-khalique.jpg"
-        },
-           {
-          "id":14,
-          "firstName":"Alexander",
-          "lastName":"Thomas",
-          "email":"Thomas@gmail.com",
-          "role":"MENTOR",
-          "imageUrl":"https://www.ecclesiologyandethnography.net/wp-content/uploads/2019/06/Koos-Tamminga.jpg"
-        },
-     {
-          "id":15,
-          "firstName":"Connor",
-          "lastName":"Robert",
-          "email":"David@gmail.com",
-          "role":"MENTOR",
-          "imageUrl":"https://www.ntu.ac.uk/__data/assets/image/0018/110709/aamir-khalique.jpg"
-        },
-           {
-          "id":16,
-          "firstName":"David",
-          "lastName":"Connor",
-          "email":"Thomas@gmail.com",
-          "role":"MENTOR",
-          "imageUrl":"https://www.ecclesiologyandethnography.net/wp-content/uploads/2019/06/Koos-Tamminga.jpg"
-        }
-    ],
-    "studentStatus":{
-        "active":377,
-        "registered": 754,
-        "graduated": 422,
-        "inactive": 11
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Ixtiyor",
+      "lastName": "Xaitov",
+      "email": "ikhtiyordev@gmail.com",
+      "role": "ADMIN"
     },
-    "newStudentsCount":{
-        "active":4,
-        "registered": 12,
-        "graduated": 24,
-        "inactive": 5
+    {
+      "id": 2,
+      "firstName": "Ilxom",
+      "lastName": "Xaitov",
+      "email": "ikhtiyor@gmail.com",
+      "role": "MENTOR"
     },
-    "totalBenefit":{
-     "all":540000000,
-     "real":420000000,
-     "noreal":120000000
+    {
+      "id": 3,
+      "firstName": "Oliver",
+      "lastName": "Noah",
+      "email": "Noah@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://vrs.amsi.org.au/wp-content/uploads/sites/78/2017/12/tobinsouth_vrs_2017-18.jpeg",
+      "message": {
+        "type": "UNREAD",
+        "lastMessage": "Salom mening vazifamlarim ni tekshirdizmi ustoz.",
+        "lastMessageTime": "00:41",
+        "newMessageCount": 2
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "Charlie",
+      "lastName": "Richard",
+      "email": "Richard@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://publichealth.uga.edu/wp-content/uploads/2020/01/Thomas-Cameron_Student_Profile.jpg",
+      "message": {
+        "type": "READ",
+        "lastMessage": "Salom mening vazifamlarim ni tekshirdizmi ustoz.",
+        "lastMessageTime": "21:05",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "William",
+      "lastName": "Jacob",
+      "email": "William@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg",
+      "message": {
+        "type": "UNREAD",
+        "lastMessage": "Assalomu alaykum",
+        "lastMessageTime": "8:32",
+        "newMessageCount": 1
+      }
+    },
+    {
+      "id": 6,
+      "firstName": "Charlie",
+      "lastName": "Richard",
+      "email": "Richard@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "",
+      "message": {
+        "type": "READ",
+        "lastMessage": "Men shu vazifani qildim.",
+        "lastMessageTime": "19:07",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 7,
+      "firstName": "Harry",
+      "lastName": "John",
+      "email": "JohnJohn@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://vrs.amsi.org.au/wp-content/uploads/sites/78/2019/01/berichon-photo.jpg",
+      "message": {
+        "type": "READ",
+        "lastMessage": "Rahmat ustoz",
+        "lastMessageTime": "14:12",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 8,
+      "firstName": "Oscar",
+      "lastName": "John",
+      "email": "Oscar@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "",
+      "message": {
+        "type": "READ",
+        "lastMessage": "Rahmat ustoz",
+        "lastMessageTime": "11:12",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 9,
+      "firstName": "Kyle",
+      "lastName": "Jacob",
+      "email": "Kyle@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg",
+      "message": {
+        "type": "UNREAD",
+        "lastMessage": "Men shu vazifani qildim.",
+        "lastMessageTime": "19:07",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 10,
+      "firstName": "George",
+      "lastName": "Richard",
+      "email": "George@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST8F8--z5CdhblS5e6hH7DgsFPTlxs9p2w0w&usqp=CAU",
+      "message": {
+        "type": "READ",
+        "lastMessage": "Rahmat ustoz",
+        "lastMessageTime": "4:12",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 11,
+      "firstName": "Thomas",
+      "lastName": "Michael",
+      "email": "Michael@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://dornsife.usc.edu/tools/mytools/PersonnelInfoSystem/DOC/Student/PHIL/photo_1078846.jpg",
+      "message": {
+        "type": "READ",
+        "lastMessage": "Sizga maslaxat beraman",
+        "lastMessageTime": "17:56",
+        "newMessageCount": 0
+      }
+    },
+    {
+      "id": 12,
+      "firstName": "Joseph",
+      "lastName": "William",
+      "email": "Joseph@gmail.com",
+      "role": "STUDENT",
+      "imageUrl": "https://www.bayleybulletin.com/wp-content/uploads/2016/08/Ashlynn-Fayth-Smith-900.jpg",
+      "message": {
+        "type": "UNREAD",
+        "lastMessage": "Men shu vazifani qildim. tekshitrib bera olasizmi?",
+        "lastMessageTime": "15:45",
+        "newMessageCount": 5
+      }
+    },
+    {
+      "id": 13,
+      "firstName": "Robert",
+      "lastName": "David",
+      "email": "David@gmail.com",
+      "role": "MENTOR",
+      "imageUrl": "https://www.ntu.ac.uk/__data/assets/image/0018/110709/aamir-khalique.jpg"
+    },
+    {
+      "id": 14,
+      "firstName": "Alexander",
+      "lastName": "Thomas",
+      "email": "Thomas@gmail.com",
+      "role": "MENTOR",
+      "imageUrl": "https://www.ecclesiologyandethnography.net/wp-content/uploads/2019/06/Koos-Tamminga.jpg"
+    },
+    {
+      "id": 15,
+      "firstName": "Connor",
+      "lastName": "Robert",
+      "email": "David@gmail.com",
+      "role": "MENTOR",
+      "imageUrl": "https://www.ntu.ac.uk/__data/assets/image/0018/110709/aamir-khalique.jpg"
+    },
+    {
+      "id": 16,
+      "firstName": "David",
+      "lastName": "Connor",
+      "email": "Thomas@gmail.com",
+      "role": "MENTOR",
+      "imageUrl": "https://www.ecclesiologyandethnography.net/wp-content/uploads/2019/06/Koos-Tamminga.jpg"
     }
+  ],
+  "studentStatus": {
+    "active": 377,
+    "registered": 754,
+    "graduated": 422,
+    "inactive": 11
+  },
+  "newStudentsCount": {
+    "active": 4,
+    "registered": 12,
+    "graduated": 24,
+    "inactive": 5
+  },
+  "totalBenefit": {
+    "all": 540000000,
+    "real": 420000000,
+    "noreal": 120000000
+  }
 }
