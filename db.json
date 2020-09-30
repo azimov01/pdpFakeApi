@@ -36,10 +36,10 @@
       "role": "STUDENT",
       "imageUrl": "https://publichealth.uga.edu/wp-content/uploads/2020/01/Thomas-Cameron_Student_Profile.jpg",
       "message": {
-        "type": "UNREAD",
+        "type": "READ",
         "lastMessage": "Salom mening vazifamlarim ni tekshirdizmi ustoz.",
         "lastMessageTime": "21:05",
-        "newMessageCount": 2
+        "newMessageCount": 0
       }
     },
     {
@@ -64,10 +64,10 @@
       "role": "STUDENT",
       "imageUrl": "",
       "message": {
-        "type": "UNREAD",
+        "type": "READ",
         "lastMessage": "Men shu vazifani qildim.",
         "lastMessageTime": "19:07",
-        "newMessageCount": 4
+        "newMessageCount": 0
       }
     },
     {
@@ -78,10 +78,10 @@
       "role": "STUDENT",
       "imageUrl": "https://vrs.amsi.org.au/wp-content/uploads/sites/78/2019/01/berichon-photo.jpg",
       "message": {
-        "type": "UNREAD",
+        "type": "READ",
         "lastMessage": "Rahmat ustoz",
         "lastMessageTime": "14:12",
-        "newMessageCount": 9
+        "newMessageCount": 0
       }
     },
     {
@@ -106,10 +106,10 @@
       "role": "STUDENT",
       "imageUrl": "https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg",
       "message": {
-        "type": "READ",
+        "type": "UNREAD",
         "lastMessage": "Men shu vazifani qildim.",
         "lastMessageTime": "19:07",
-        "newMessageCount": 0
+        "newMessageCount": 9
       }
     },
     {
@@ -148,10 +148,10 @@
       "role": "STUDENT",
       "imageUrl": "https://www.bayleybulletin.com/wp-content/uploads/2016/08/Ashlynn-Fayth-Smith-900.jpg",
       "message": {
-        "type": "READ",
+        "type": "UNREAD",
         "lastMessage": "Men shu vazifani qildim. tekshitrib bera olasizmi?",
         "lastMessageTime": "15:45",
-        "newMessageCount": 0
+        "newMessageCount": 5
       }
     },
     {
@@ -203,5 +203,140 @@
     "all": 540000000,
     "real": 420000000,
     "noreal": 120000000
-  }
+  },
+  "chat": [
+    {
+      "sendTo": 3,
+      "sendFrom": 1,
+      "time": "13.08.20 | 14:20",
+      "whoSend": "Mentor",
+      "type": "TEXT",
+      "message": "",
+      "file": "",
+      "fileName": "",
+      "fileSize": ""
+    },
+    {
+      "sendTo": 4,
+      "sendFrom": 1,
+      "time": "11.08.20 | 11:20",
+      "whoSend": "Mentor",
+      "type": "TEXT",
+      "message": "",
+      "file": "",
+      "fileName": "",
+      "fileSize": ""
+    },
+    {
+      "sendTo": 3,
+      "sendFrom": 1,
+      "time": "13.08.20 | 14:25",
+      "whoSend": "Mentor",
+      "type": "FILETEXT",
+      "message": "Manabu fayldagi vazifani bajaring",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "3-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    {
+      "sendTo": 4,
+      "sendFrom": 1,
+      "time": "11.08.20 | 14:10",
+      "whoSend": "Assistent: Robert",
+      "type": "FILETEXT",
+      "message": "Mana bu faylda to’liq javob berilgan shuni ko’rishni sizga maslaxat beraman",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "2-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    {
+      "sendTo": 3,
+      "sendFrom": 1,
+      "time": "13.08.20 | 14:25",
+      "whoSend": "Assistent: Alexander",
+      "type": "FILE",
+      "message": "",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "3-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    {
+      "sendTo": 4,
+      "sendFrom": 1,
+      "time": "11.08.20 | 6:50",
+      "whoSend": "Mentor",
+      "type": "FILE",
+      "message": "",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "2-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    
+    {
+      "sendTo": 1,
+      "sendFrom": 4,
+      "time": "13.08.20 | 14:20",
+      "whoSend": "",
+      "type": "TEXT",
+      "message": "Assalomu alaykum",
+      "file": "",
+      "fileName": "",
+      "fileSize": ""
+    },
+    {
+      "sendTo": 1,
+      "sendFrom": 3,
+      "time": "11.08.20 | 11:05",
+      "whoSend": "",
+      "type": "TEXT",
+      "message": "Rahmat ustoz",
+      "file": "",
+      "fileName": "",
+      "fileSize": ""
+    },
+    {
+      "sendTo": 1,
+      "sendFrom": 4,
+      "time": "13.08.20 | 14:25",
+      "whoSend": "",
+      "type": "FILETEXT",
+      "message": "Men shu vazifani qildim. tekshitrib bera olasizmi? Rahmat ustoz",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "3-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    {
+      "sendTo": 1,
+      "sendFrom": 3,
+      "time": "7.08.20 | 11:50",
+      "whoSend": "",
+      "type": "FILETEXT",
+      "message": "Men shu vazifani qildim.",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "2-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    {
+      "sendTo": 1,
+      "sendFrom": 4,
+      "time": "21.08.20 | 14:15",
+      "whoSend": "",
+      "type": "FILE",
+      "message": "",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "3-topshiriq.zip",
+      "fileSize": "2MB"
+    },
+    {
+      "sendTo": 1,
+      "sendFrom": 3,
+      "time": "18.08.20 | 19:50",
+      "whoSend": "",
+      "type": "FILE",
+      "message": "",
+      "file": "https://file-examples-com.github.io/uploads/2017/02/zip_2MB.zip",
+      "fileName": "2-topshiriq.zip",
+      "fileSize": "2MB"
+    }
+  ]
 }
