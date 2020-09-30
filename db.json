@@ -92,10 +92,10 @@
       "role": "STUDENT",
       "imageUrl": "",
       "message": {
-        "type": "READ",
+        "type": "UNREAD",
         "lastMessage": "Rahmat ustoz",
         "lastMessageTime": "11:12",
-        "newMessageCount": 0
+        "newMessageCount": 2
       }
     },
     {
@@ -106,10 +106,10 @@
       "role": "STUDENT",
       "imageUrl": "https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg",
       "message": {
-        "type": "UNREAD",
+        "type": "READ",
         "lastMessage": "Men shu vazifani qildim.",
         "lastMessageTime": "19:07",
-        "newMessageCount": 9
+        "newMessageCount": 0
       }
     },
     {
